@@ -1,0 +1,3 @@
+import ImageMethods
+
+ImageMethods.Outline()
